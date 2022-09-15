@@ -1,0 +1,36 @@
+.mainBodyView{
+	margin-left: 15px;
+	margin-top: 10px;
+}
+
+.btnView{
+	margin-left: 20px;
+}
+
+.formCls{
+  margin-top: 10px;
+  margin-left: 20px;
+  width: fit-content;
+}
+
+.tbl{
+  margin-top: 120px;
+  width:700px;
+  border: 2px solid black;
+}
+
+.btnDim{
+  height: 80px;
+  width: 200px;
+}
+
+.searchBar{
+	margin-left: 900px;
+	margin-top: 0px;
+	justify-content:right;
+}
+
+.btnHeader{
+	margin-top: 20px;
+	margin-bottom: 40px;
+}
