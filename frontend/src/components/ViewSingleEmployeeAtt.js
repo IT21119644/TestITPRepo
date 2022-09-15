@@ -3,7 +3,7 @@ import { useParams } from "react-router-dom";
 import axios from "axios";
 import "../App.css";
 
-export default function ViewSingleEmployee(){
+export default function ViewSingleEmployeeAtt(){
     const { empNo } = useParams();
     let [employees, setEmployee] = useState([]);
 
