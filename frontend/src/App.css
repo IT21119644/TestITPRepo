@@ -1,0 +1,41 @@
+.container {
+	width: 100vw;
+	min-height: 100vh;
+	/* background-color: #2941ab; */
+}
+
+.songs_container {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+}
+
+.imgDisplay{
+	width: 100px;
+	height: 100px;
+}
+
+.btnView{
+	margin-left: 20px;
+}
+
+.mainBodyView{
+	margin-left: 15px;
+	margin-top: 10px;
+}
+
+.generateBtn{
+	margin-top: 5px;
+}
+
+.searchBar{
+	margin-left: 660px;
+	margin-top: 0px;
+	justify-content:right;
+}
+
+.btnHeader{
+	margin-top: 20px;
+	margin-bottom: 40px;
+}
